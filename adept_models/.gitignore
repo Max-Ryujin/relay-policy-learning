@@ -2,6 +2,8 @@
 .DS_Store
 *.swp
 *.profraw
+*.pyc
+__pycache__/
 
 # Editors
 .vscode
